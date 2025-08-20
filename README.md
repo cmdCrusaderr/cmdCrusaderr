@@ -1,5 +1,6 @@
 # 💫 About Me:
- About Me<br><br>I am a sophomore engineering student who recently started coding and is passionate about learning machine learning, data science,building apps and even blockchain . I am an enthusiast developer eager to contribute to the tech community and learn from others.<br><br>- 🌱 I’m currently learning machine learning and data science along with iOS app dev.<br>- 👯 I’m looking to collaborate on ml based projects.<br>- 💬 Ask me about anything related to programming and technology.<br><br>Feel free to reach out to me for any collaborations or discussions!
+ I love to build . Let's connect and learn.
+ 
 
 
 # 💻 Tech Stack:
